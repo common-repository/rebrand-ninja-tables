@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-18 13:57+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ntp-settings.php:104
+msgid "Rebrand. -"
+msgstr ""
+
+#: ntp-settings.php:107 ntp-settings.php:109
+msgid "Save"
+msgstr ""
+
+#: ntp-settings.php:117 ntp-settings.php:127
+msgid "Hide the \""
+msgstr ""
+
+#: ntp-settings.php:117 ntp-settings.php:121
+#: ntp-settings.php:127
+msgid " - Rebrand\" menu item?"
+msgstr ""
+
+#: ntp-settings.php:121
+msgid "Show the \""
+msgstr ""
+
+#: ntp-settings.php:223
+msgid "Rebrand"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:5
+msgid "Rebrand NinjaTables Pro"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:7
+msgid "Rebrand NinjaTables"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:22
+msgid "Branding"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:23
+msgid "You can white label the plugin as per your requirement."
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:28
+msgid "Plugin Name"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:36
+msgid "Plugin Description"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:44
+msgid "Developer / Agency"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:52
+msgid "Website URL"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:73
+msgid "Menu Icon"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:111
+msgid "Hide Help Menu & Tab"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:120
+msgid "Hide Tools Menu & Tab"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:129
+msgid "Hide Footer text"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:142
+msgid "Hide Go Pro Menu"
+msgstr ""
+
+#: admin/bzntp-settings-rebranding.php:157
+msgid "Save Settings"
+msgstr ""
